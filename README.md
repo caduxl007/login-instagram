@@ -1,6 +1,6 @@
 # login-instagram
 clone da tela de login 
 
-#Tecnologias
+# Tecnologias
 - html
 - css

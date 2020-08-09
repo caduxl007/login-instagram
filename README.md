@@ -1,2 +1,6 @@
 # login-instagram
-clono da tela de login, desenvolvido com html e css
+clone da tela de login 
+
+#Tecnologias
+- html
+- css
